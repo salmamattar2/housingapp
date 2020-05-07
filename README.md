@@ -1,4 +1,4 @@
-![Circle CI](/screenshot_ci.svg?raw=true&sanitize=true)
+[![CircleCI](https://circleci.com/gh/ClaireLee22/Operationalize-a-Machine-Learning-Microservice-API.svg?style=svg)](https://circleci.com/gh/ClaireLee22/Operationalize-a-Machine-Learning-Microservice-API)
 
 This project for housing prices prediction consists of the following parts:
 
