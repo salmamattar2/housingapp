@@ -1,6 +1,6 @@
 ![Circle CI](/screenshot_ci.svg?raw=true&sanitize=true)
 
-This project for housing prices prediction consists of the following several parts:
+This project for housing prices prediction consists of the following parts:
 
 Creation and activation of the environment
 Docker installation
